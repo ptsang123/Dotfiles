@@ -1,0 +1,3 @@
+cd $HOME/Dotfiles
+cp -r .config/* $HOME/.config
+cp -r .home/* $HOME

@@ -4,7 +4,7 @@ alt + F2
 
 #terminal
 alt + t
-	alacritty
+	uxterm
 
 #file manager
 super + e
