@@ -91,6 +91,7 @@ rofi.opacity:                        100
 rofi.width:                          25
 rofi.lines:                          15
 rofi.columns:                        1
+rofi.show-icons:                     true
 rofi.font:                           DejaVu Sans Mono 12
 rofi.color-enabled: true
 rofi.color-window: #0d1316, #008ed4
