@@ -380,8 +380,8 @@
 	    <action name="MoveResizeTo">
 		    <x>center</x>
 		    <y>center</y>
-		    <height>50%</height>
-		    <width>50%</width>
+		    <height>75%</height>
+		    <width>75%</width>
 	    </action>
     </keybind>
   </keyboard>
