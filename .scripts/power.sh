@@ -11,11 +11,11 @@ choice=$(echo -e "$options" | rofi -font "DejaVu Sans Mono 20" -width 30 -lines 
 #[[ -z $choice ]] && exit
 case "${choice}" in
         $option1)
-                shutdown -P 0 ;;
+                systemctl poweroff ;;
         $option2)
                 systemctl suspend ;;
         $option3)
-                reboot ;;
+                systemctl reboot ;;
         $option4)
                 dm-tool lock ;;
 esac
