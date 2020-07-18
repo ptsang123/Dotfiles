@@ -10,22 +10,6 @@ alt + t
 super + e
 	pcmanfm
 
-#Application menu
-alt + F1
-	lxpanelctl menu
-
-#Mute audio
-XF86AudioMute
-	amixer -q -D pulse sset Master toggle; volume.sh
-
-#Raise volume by 5
-XF86AudioRaiseVolume 
-	amixer -q -D pulse sset Master 5%+; volume.sh
-
-#Lower volume by 5
-XF86AudioLowerVolume 
-	amixer -q -D pulse sset Master 5%-; volume.sh
-
 #Screenshot
 Print
 	flameshot gui
@@ -34,13 +18,9 @@ Print
 XF86Mail
 	thunderbird
 
-#Help menu
-alt + F12
-	zathura $HOME/Documents/help.pdf
-
 #Power menu
 alt + ctrl + Delete
-	power.sh
+	$HOME/.scripts/power.sh
 	
 #Music Player
 XF86Tools
