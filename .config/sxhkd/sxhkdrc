@@ -1,6 +1,6 @@
 #rofi
 alt + F2
-	rofi -show run
+	zsh -c "rofi -show run"
 
 #terminal
 alt + t
