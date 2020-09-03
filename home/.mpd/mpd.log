@@ -1,0 +1,838 @@
+Aug 21 16:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 16:18 : avahi: Failed to add service _mpd._tcp: Local name collision
+Aug 21 16:18 : exception: Failed to open '/home/blue/.mpd/mpdstate': No such file or directory
+Aug 21 16:18 : update: added Main/Dr. Dre feat. Snoop Dogg - Still Dre.mp3
+Aug 21 16:18 : update: added Main/NSYNC - It's gonna be me.mp3
+Aug 21 16:18 : update: added Main/Dr. Dre ft. Eminem & Skylar Grey - I Need A Doctor.mp3
+Aug 21 16:18 : update: added Main/IceCube - Check Yo Self.mp3
+Aug 21 16:18 : update: added Main/Defqwop - Heart Afire (feat. Strix) [NCS Release]-gJeh_dLjPN4.m4a
+Aug 21 16:18 : update: added Main/Lil Skies - Nowadays ft. Landon Cube.mp3
+Aug 21 16:18 : update: added Main/Tupac-Changes.mp3
+Aug 21 16:18 : update: added Main/Alan Walker - Force.mp3
+Aug 21 16:18 : update: added Main/KSHMR & Snails - The Serpent (Official Audio).m4a
+Aug 21 16:18 : update: added Main/TheFatRat - Windfall.mp3
+Aug 21 16:18 : update: added Main/21 Savage, Offset & Metro Boomin -  Ghostface Killers  Ft Travis Scott.mp3
+Aug 21 16:18 : update: added Main/Blasterjaxx - Vision.mp3
+Aug 21 16:18 : update: added Main/My Chemical Romance - _Welcome To The Black Parade_ [Official Music Video].m4a
+Aug 21 16:18 : update: added Main/Jo Cohen & Sex Whales - We Are [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Joji - Slow Dancing in the Dark.mp3
+Aug 21 16:18 : update: added Main/Drake - Sneakin' ft. 21 Savage.mp3
+Aug 21 16:18 : update: added Main/Warsongs - The Glory (James Egbert Remix).mp3
+Aug 21 16:18 : update: added Main/Eminem - My Name Is.mp3
+Aug 21 16:18 : update: added Main/Eminem - Lose Yourself.mp3
+Aug 21 16:18 : update: added Main/Lil Skies - Red Roses ft. Landon Cube.mp3
+Aug 21 16:18 : update: added Main/Dope Arcade - Ascension (MitiS Remix).mp3
+Aug 21 16:18 : update: added Main/Different Heaven & EH!DE - My Heart.mp3
+Aug 21 16:18 : update: added Main/Metro Boomin & Offset - Ric Flair Drip.mp3
+Aug 21 16:18 : update: added Main/NSYNC - Bye Bye Bye.mp3
+Aug 21 16:18 : update: added Main/Backstreet Boys - I want it that way.mp3
+Aug 21 16:18 : update: added Main/Eminem - Without Me.mp3
+Aug 21 16:18 : update: added Main/Blasterjaxx - Mystica.mp3
+Aug 21 16:18 : update: added Main/Alan Walker - Hope.mp3
+Aug 21 16:18 : update: added Main/Ski Mask The Slump God - Catch Me Outside.m4a
+Aug 21 16:18 : update: added Main/TheFatRat - Time Lapse.mp3
+Aug 21 16:18 : update: added Main/Janji - Heroes Tonight (feat. Johnning).mp3
+Aug 21 16:18 : update: added Main/Eminem - Rap God (Explicit).mp3
+Aug 21 16:18 : update: added Main/Alan Walker - Faded.mp3
+Aug 21 16:18 : update: added Main/Blasterjaxx feat. Courtney Jenae - Forever.mp3
+Aug 21 16:18 : update: added Main/Eminem - Not Afraid (Audio).mp3
+Aug 21 16:18 : update: added Main/Eminem - You Don't Know ft. 50 Cent, Cashis, Lloyd Banks.mp3
+Aug 21 16:18 : update: added Main/NeoTune! & Hermax - Buzzard.mp3
+Aug 21 16:18 : update: added Main/Codeko - Crest [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Alan Walker - Alone.m4a
+Aug 21 16:18 : update: added Main/Ice Cube - Today Was A Good Day.mp3
+Aug 21 16:18 : update: added Main/Post Malone - Congratulations ft Quavo.mp3
+Aug 21 16:18 : update: added Main/DEAF KEV - Invincible [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Warsongs - The Boy Who Shattered Time (MitiS Remix).mp3
+Aug 21 16:18 : update: added Main/Vicetone - Nevada (feat. Cozi Zuehlsdorff).mp3
+Aug 21 16:18 : update: added Main/Warsongs - PROJECT_ Yi (Vicetone Remix).mp3
+Aug 21 16:18 : update: added Main/Drake God's Plan.mp3
+Aug 21 16:18 : update: added Main/Eminem - Space Bound.mp3
+Aug 21 16:18 : update: added Main/MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ .mp3
+Aug 21 16:18 : update: added Main/TheFatRat - Unity.mp3
+Aug 21 16:18 : update: added Main/Blasterjaxx & Justin Prime - Push Play.mp3
+Aug 21 16:18 : update: added Main/W&W & Hardwell & Lil Jon - Live The Night.mp3
+Aug 21 16:18 : update: added Main/The Chainsmokers - Closer ft. Halsey.mp3
+Aug 21 16:18 : update: added Main/Hardwell & Joey Dale feat. Luciana - Arcadia-1.mp3
+Aug 21 16:18 : update: added Main/Warsongs - Flash Funk (Marshmello Remix).mp3
+Aug 21 16:18 : update: added Main/Hardwell & Armin van Buuren - Off The Hook.mp3
+Aug 21 16:18 : update: added Main/TheFatRat - Xenogenesis.mp3
+Aug 21 16:18 : update: added Main/Ski Mask The Slump God - BabyWipe.mp3
+Aug 21 16:18 : update: added Main/Dr. Dre Ft. Eminem - Forgot About Dre.mp3
+Aug 21 16:18 : update: added Main/Tristam & Braken - Frame of Mind.mp3
+Aug 21 16:18 : update: added Main/TheFatRat - Telescope.mp3
+Aug 21 16:18 : update: added Main/CUCO - Lover is a Day.mp3
+Aug 21 16:18 : update: added Main/Tristam - I Remember.mp3
+Aug 21 16:18 : update: added Main/Alan Walker vs Coldplay - Hymn For The Weekend [Remix].mp3
+Aug 21 16:18 : update: added Main/Martin Garrix & Firebeatz - Helicopter.mp3
+Aug 21 16:18 : update: added Main/Krale - Frontier (ft. Jasmina Lin & Jay Christopher) [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Warsongs - Let The Games Begin (Hyper Potions Remix).mp3
+Aug 21 16:18 : update: added Main/Cartoon - Why We Lose (feat. Coleman Trapp) [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Lil Xan - Betrayed (Dir. by @_ColeBennett_).mp3
+Aug 21 16:18 : update: added Main/Tristam - Once Again.mp3
+Aug 21 16:18 : update: added Main/Martin Garrix - Animals.mp3
+Aug 21 16:18 : update: added Main/N.W.a - Straight Outta Compton (2006 Digital Remaster).mp3
+Aug 21 16:18 : update: added Main/Ummet Ozcan - Superwave (Vonikk Remix).mp3
+Aug 21 16:18 : update: added Main/Elektronomia - Energy [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Hate It Or Love It Lyrics - The Game Feat. 50 Cent __ HD.mp3
+Aug 21 16:18 : update: added Main/IZECOLD - Close (feat. Molly Ann) [Brooks Remix]   NCS x FHM Release.mp3
+Aug 21 16:18 : update: added Main/KSHMR - Dead Mans Hand (Official Music Video).mp3
+Aug 21 16:18 : update: added Main/Dimitri Vegas & Like Mike vs Ummet Ozcan - The Hum (Short Edit).mp3
+Aug 21 16:18 : update: added Main/Joji & Diplo - Daylight.mp3
+Aug 21 16:18 : update: added Main/Vonikk - Frenzy.mp3
+Aug 21 16:18 : update: added Main/Bon Jovi - It's my life.mp3
+Aug 21 16:18 : update: added Main/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Different Heaven - Nekozilla [NCS Release].mp3
+Aug 21 16:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 21 16:18 : update: added Main/M.I.A. - Paper Planes.m4a
+Aug 21 16:18 : update: added Main/Hardwell - Eclipse (OUT NOW!) UnitedWeAre.mp3
+Aug 21 16:18 : update: added Main/BlocBoy JB & Drake -  Look Alive.mp3
+Aug 21 16:18 : update: added Main/50 cent - In da club.mp3
+Aug 21 16:18 : update: added Main/Headhunterz  KSHMR - Dharma (Official Music Video).wav
+Aug 21 16:18 : update: added Main/Tupac - Last Muthafucka Breathin.mp3
+Aug 21 16:18 : update: added Main/21 Savage & Metro Boomin - X ft Future.mp3
+Aug 21 16:18 : update: added Main/NSYNC - I want you back.mp3
+Aug 21 16:18 : update: added Main/Carnage & Borgore - Incredible.mp3
+Aug 21 16:18 : update: added Main/Blasterjaxx & Badd Dimes - Titan (Original Mix).mp3
+Aug 21 16:18 : update: added Main/Go flex Post Malone lyrics.mp3
+Aug 21 16:18 : update: added Main/Tristam - Till Its Over.mp3
+Aug 21 16:18 : update: added Main/Michael Calfan - Resurrection.mp3
+Aug 21 16:18 : update: added Main/Tobu - Hope [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Post Malone - Better Now.mp3
+Aug 21 16:18 : update: added Main/Ice Cube - Sasquatch.mp3
+Aug 21 16:18 : update: added Main/Warsongs - Piercing Light (Mako Remix).mp3
+Aug 21 16:18 : update: added Main/Tupac - Hail Mary.mp3
+Aug 21 16:18 : update: added Main/DOCTOR VOX - Frontier.mp3
+Aug 21 16:18 : update: added Main/W&W - Bigfoot.mp3
+Aug 21 16:18 : update: added Main/Green Day -Boulevard of Broken Dreams.mp3
+Aug 21 16:18 : update: added Main/Alan Walker - The Spectre.m4a
+Aug 21 16:18 : update: added Main/Eminem - Stan Lyrics [audio].mp3
+Aug 21 16:18 : update: added Main/Backstreet Boys - As long as you love me.mp3
+Aug 21 16:18 : update: added Main/Post Malone - White Iverson.mp3
+Aug 21 16:18 : update: added Main/Real to Me.m4a
+Aug 21 16:18 : update: added Main/Warsongs - Silver Scrapes (ProtoShredanoid Remix).mp3
+Aug 21 16:18 : update: added Main/Koven - Telling Me [Monstercat EP Release].mp3
+Aug 21 16:18 : update: added Main/Notorious B.I.G. & 2pac - Niggas in Paris.mp3
+Aug 21 16:18 : update: added Main/DJ Walkzz - Memories.mp3
+Aug 21 16:18 : update: added Main/KSHMR - Dhoom.mp3
+Aug 21 16:18 : update: added Main/Pink Guy ft Axel Boy - ARE YOU SERIOUS.mp3
+Aug 21 16:18 : update: added Main/Ice Cube - Wicked.mp3
+Aug 21 16:18 : update: added Main/Dimitri Vegas, Martin Garrix, Like Mike - Tremor.mp3
+Aug 21 16:18 : update: added Main/Martin Garrix & Jay Hardway - Wizard.mp3
+Aug 21 16:18 : update: added Main/N.W.A. - Express Yourself.mp3
+Aug 21 16:18 : update: added Main/TheFatRat - Monody (feat. Laura Brehm).mp3
+Aug 21 16:18 : update: added Main/Blasterjaxx - Gravity (Original Mix).mp3
+Aug 21 16:18 : update: added Main/Migos - Walk It Talk It ft. Drake.mp3
+Aug 21 16:18 : update: added Main/The Notorious B.I.G. - Juicy.mp3
+Aug 21 16:18 : update: added Main/Eminem - Sing For The Moment.mp3
+Aug 21 16:18 : update: added Main/Eminem - The Monster ft. Rihanna ( Lyrics On-Screen ).mp3
+Aug 21 16:18 : update: added Main/21 Savage & Metro Boomin - No Heart.mp3
+Aug 21 16:18 : update: added Main/DVBBS & Borgeous - TSUNAMI (Original Mix).mp3
+Aug 21 16:18 : update: added Main/Post Malone - Rockstar ft. 21 Savage (Crankdat Remix).mp3
+Aug 21 16:18 : update: added Main/Tobu - Infectious [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Dr. Dre - The Next Episode (San Holo Remix).mp3
+Aug 21 16:18 : update: added Main/Alan Walker - Fade [NCS Release].mp3
+Aug 21 16:18 : update: added Main/KSHMR - Jammu (Official Music Video).mp3
+Aug 21 16:18 : update: added Main/Tristam & Braken - Flight.mp3
+Aug 21 16:18 : update: added Main/Future - Mask Off (Marshmello Remix).mp3
+Aug 21 16:18 : update: added Main/Warriyo - Mortals (feat. Laura Brehm) [NCS Release].mp3
+Aug 21 16:18 : update: added Main/Warsongs - Edge of Infinity (Minnesota Remix).mp3
+Aug 21 16:18 : update: added Main/Ice Cube - Gangsta Rap Made Me Do It  (lyrics).mp3
+Aug 21 16:18 : update: added Main/Ahrix - Nova.mp3
+Aug 21 16:18 : update: added Main/Eminem - The Real Slim Shady (Lyrics) [HD & HQ].mp3
+Aug 21 16:18 : update: added Main/KSHMR & MARNIK - Mandala ft. Mitika (Official Sunburn 2016 Anthem) [Official Music Video].mp3
+Aug 21 16:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 21 16:18 : update: added Main/lil peep - benz truck (prod. smokeasac).m4a
+Aug 21 16:18 : update: added Main/KSHMR - Strange Lands (Free Download).mp3
+Aug 21 16:18 : update: added Main/Alan Walker - Spectre.mp3
+Aug 21 16:18 : update: added Main/Martin Garrix & Bebe Rexha - In The Name Of Love.mp3
+Aug 21 16:18 : update: added Main/Eminem - Walk On Water ft. Beyoncé.mp3
+Aug 21 16:18 : update: added Main/W&W & Blasterjaxx - Rocket.mp3
+Aug 21 16:18 : update: added Main/Disfigure - Blank.mp3
+Aug 21 16:18 : update: added Main/Ice Cube - Why We Thugs (Dirty Lyrics).mp3
+Aug 21 16:18 : update: added Main/Veorra & The Tech Thieves - Ghost Town.mp3
+Aug 21 16:18 : update: added Main/Warsongs - Lucidity (Dan Negovan Remix).mp3
+Aug 21 16:18 : update: added Main/Eminem - Survival (Explicit).mp3
+Aug 21 16:18 : update: added Main/NSYNC - Tearin' Up My Heart (Video).mp3
+Aug 21 16:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 21 16:18 : update: added Main/Ocean Man Lyrics.m4a
+Aug 21 16:18 : update: added Main/W&W - Thunder.mp3
+Aug 21 16:18 : update: added Main/Joji - Sanctuary.mp3
+Aug 21 16:18 : update: added Main/Eminem - Beautiful [Lyrics HD Uncensored] (2).mp3
+Aug 21 16:18 : update: added Main/Warsongs - Worlds Collide (Arty Remix).mp3
+Aug 21 16:18 : update: added Main/Warsongs - Welcome to Planet Urf (Jauz Remix).mp3
+Aug 21 16:18 : update: added klazik moozik/O-Zone - Dragostea din tei (Video Clip Oficial).mp3
+Aug 21 16:18 : update: added klazik moozik/Pink Guy ft Axel Boy - ARE YOU SERIOUS.mp3
+Aug 21 16:18 : update: added klazik moozik/RIP Elliot Rodger.m4a
+Aug 21 16:18 : client: [0] opened from 127.0.0.1:56890
+Aug 21 16:19 : client: [0] closed
+Aug 21 16:20 : client: [1] opened from 127.0.0.1:56892
+Aug 21 16:20 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 16:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:23 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:24 : player: played "Main/Alan Walker - The Spectre.m4a"
+Aug 21 16:24 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:24 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:24 : exception: Failed to open /home/Blue/Music: No such file or directory
+Aug 21 16:25 : client: [1] closed
+Aug 21 16:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 16:25 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 21 16:25 : client: [0] opened from 127.0.0.1:56934
+Aug 21 16:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 16:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 16:31 : update: added Main/Yakuza OST - Baka Mitai.mp3
+Aug 21 16:32 : player: played "Main/Yakuza OST - Baka Mitai.mp3"
+Aug 21 16:32 : exception: Not playing
+Aug 21 16:32 : exception: Not playing
+Aug 21 16:32 : exception: Failed to open audio output
+Aug 21 16:34 : client: [0] closed
+Aug 21 16:36 : client: [1] opened from 127.0.0.1:57148
+Aug 21 16:38 : client: [2] opened from 127.0.0.1:57184
+Aug 21 16:38 : client: [2] closed
+Aug 21 16:38 : player: played "Main/Yakuza OST - Baka Mitai.mp3"
+Aug 21 16:41 : player: played "Main/Joji & Diplo - Daylight.mp3"
+Aug 21 16:43 : client: [3] opened from 127.0.0.1:57212
+Aug 21 16:44 : client: [3] closed
+Aug 21 16:44 : client: [4] opened from 127.0.0.1:57214
+Aug 21 16:44 : player: played "Main/Joji - Sanctuary.mp3"
+Aug 21 16:45 : client: [4] closed
+Aug 21 16:45 : client: [1] closed
+Aug 21 16:45 : client: [5] opened from 127.0.0.1:57216
+Aug 21 16:45 : client: [5] closed
+Aug 21 16:45 : client: [6] opened from 127.0.0.1:57218
+Aug 21 16:46 : client: [7] opened from 127.0.0.1:57220
+Aug 21 16:46 : client: [7] closed
+Aug 21 16:46 : client: [8] opened from 127.0.0.1:57222
+Aug 21 16:46 : client: [8] closed
+Aug 21 16:46 : client: [6] closed
+Aug 21 16:46 : client: [9] opened from 127.0.0.1:57224
+Aug 21 16:47 : client: [9] closed
+Aug 21 16:47 : client: [10] opened from 127.0.0.1:57226
+Aug 21 16:47 : client: [11] opened from 127.0.0.1:57228
+Aug 21 16:48 : client: [11] closed
+Aug 21 16:48 : client: [12] opened from 127.0.0.1:57232
+Aug 21 16:48 : client: [12] closed
+Aug 21 16:48 : client: [13] opened from 127.0.0.1:57234
+Aug 21 16:48 : client: [10] closed
+Aug 21 16:48 : client: [14] opened from 127.0.0.1:57236
+Aug 21 16:48 : player: played "Main/Joji - Slow Dancing in the Dark.mp3"
+Aug 21 16:48 : client: [13] closed
+Aug 21 16:48 : client: [14] closed
+Aug 21 16:48 : client: [15] opened from 127.0.0.1:57238
+Aug 21 16:49 : client: [15] closed
+Aug 21 16:49 : client: [16] opened from 127.0.0.1:57242
+Aug 21 16:51 : player: played "Main/Joji & Diplo - Daylight.mp3"
+Aug 21 16:53 : client: [16] closed
+Aug 21 16:53 : client: [17] opened from 127.0.0.1:57312
+Aug 21 16:54 : client: [17] closed
+Aug 21 16:54 : client: [18] opened from 127.0.0.1:57314
+Aug 21 16:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 21 16:55 : player: played "Main/NSYNC - Tearin' Up My Heart (Video).mp3"
+Aug 21 16:58 : client: [18] closed
+Aug 21 16:58 : client: [19] opened from 127.0.0.1:57368
+Aug 21 16:59 : player: played "Main/NSYNC - Bye Bye Bye.mp3"
+Aug 21 16:59 : client: [19] closed
+Aug 21 16:59 : client: [20] opened from 127.0.0.1:57370
+Aug 21 17:02 : client: [20] closed
+Aug 21 17:02 : client: [21] opened from 127.0.0.1:57388
+Aug 21 17:05 : client: [21] closed
+Aug 21 17:06 : client: [22] opened from 127.0.0.1:57442
+Aug 21 17:07 : client: [22] closed
+Aug 21 17:07 : client: [23] opened from 127.0.0.1:57444
+Aug 21 17:08 : client: [23] closed
+Aug 21 17:08 : client: [24] opened from 127.0.0.1:57448
+Aug 21 17:08 : client: [24] closed
+Aug 21 17:08 : client: [25] opened from 127.0.0.1:57450
+Aug 21 17:09 : client: [25] closed
+Aug 21 17:09 : client: [26] opened from 127.0.0.1:57452
+Aug 21 17:09 : player: played "Main/Yakuza OST - Baka Mitai.mp3"
+Aug 21 17:09 : client: [26] closed
+Aug 21 17:09 : client: [27] opened from 127.0.0.1:57454
+Aug 21 17:09 : client: [27] closed
+Aug 21 17:09 : client: [28] opened from 127.0.0.1:57456
+Aug 21 18:24 : player: played "Main/Joji & Diplo - Daylight.mp3"
+Aug 21 18:33 : update: updating Main/Dr. Dre feat. Snoop Dogg - Still Dre.mp3
+Aug 21 18:33 : update: updating Main/Dr. Dre ft. Eminem & Skylar Grey - I Need A Doctor.mp3
+Aug 21 18:33 : update: updating Main/IceCube - Check Yo Self.mp3
+Aug 21 18:33 : update: updating Main/Tupac-Changes.mp3
+Aug 21 18:33 : update: updating Main/Alan Walker - Force.mp3
+Aug 21 18:33 : update: updating Main/TheFatRat - Windfall.mp3
+Aug 21 18:33 : update: updating Main/Joji - Slow Dancing in the Dark.mp3
+Aug 21 18:33 : update: updating Main/Warsongs - The Glory (James Egbert Remix).mp3
+Aug 21 18:33 : update: updating Main/Eminem - My Name Is.mp3
+Aug 21 18:33 : update: updating Main/Eminem - Lose Yourself.mp3
+Aug 21 18:33 : update: updating Main/Different Heaven & EH!DE - My Heart.mp3
+Aug 21 18:33 : update: updating Main/Eminem - Without Me.mp3
+Aug 21 18:33 : update: updating Main/Alan Walker - Hope.mp3
+Aug 21 18:33 : update: updating Main/Ski Mask The Slump God - Catch Me Outside.m4a
+Aug 21 18:33 : update: updating Main/TheFatRat - Time Lapse.mp3
+Aug 21 18:33 : update: updating Main/Janji - Heroes Tonight (feat. Johnning).mp3
+Aug 21 18:33 : update: updating Main/Eminem - Rap God (Explicit).mp3
+Aug 21 18:33 : update: updating Main/Alan Walker - Faded.mp3
+Aug 21 18:33 : update: updating Main/Eminem - Not Afraid (Audio).mp3
+Aug 21 18:33 : update: updating Main/Eminem - You Don't Know ft. 50 Cent, Cashis, Lloyd Banks.mp3
+Aug 21 18:33 : update: updating Main/Codeko - Crest [NCS Release].mp3
+Aug 21 18:33 : update: updating Main/Ice Cube - Today Was A Good Day.mp3
+Aug 21 18:33 : update: updating Main/Post Malone - Congratulations ft Quavo.mp3
+Aug 21 18:33 : update: updating Main/DEAF KEV - Invincible [NCS Release].mp3
+Aug 21 18:33 : update: updating Main/Warsongs - The Boy Who Shattered Time (MitiS Remix).mp3
+Aug 21 18:33 : update: updating Main/Warsongs - PROJECT_ Yi (Vicetone Remix).mp3
+Aug 21 18:33 : update: updating Main/Eminem - Space Bound.mp3
+Aug 21 18:33 : update: updating Main/MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ .mp3
+Aug 21 18:33 : update: updating Main/TheFatRat - Unity.mp3
+Aug 21 18:33 : update: updating Main/The Chainsmokers - Closer ft. Halsey.mp3
+Aug 21 18:33 : update: updating Main/Hardwell & Joey Dale feat. Luciana - Arcadia-1.mp3
+Aug 21 18:33 : update: updating Main/Warsongs - Flash Funk (Marshmello Remix).mp3
+Aug 21 18:33 : update: updating Main/TheFatRat - Xenogenesis.mp3
+Aug 21 18:33 : update: updating Main/Dr. Dre Ft. Eminem - Forgot About Dre.mp3
+Aug 21 18:33 : update: updating Main/TheFatRat - Telescope.mp3
+Aug 21 18:33 : update: updating Main/CUCO - Lover is a Day.mp3
+Aug 21 18:33 : update: updating Main/Warsongs - Let The Games Begin (Hyper Potions Remix).mp3
+Aug 21 18:33 : update: updating Main/Cartoon - Why We Lose (feat. Coleman Trapp) [NCS Release].mp3
+Aug 21 18:33 : update: updating Main/N.W.a - Straight Outta Compton (2006 Digital Remaster).mp3
+Aug 21 18:33 : update: updating Main/Ummet Ozcan - Superwave (Vonikk Remix).mp3
+Aug 21 18:33 : update: updating Main/Hate It Or Love It Lyrics - The Game Feat. 50 Cent __ HD.mp3
+Aug 21 18:33 : update: updating Main/Joji & Diplo - Daylight.mp3
+Aug 21 18:33 : update: updating Main/Vonikk - Frenzy.mp3
+Aug 21 18:33 : update: updating Main/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+Aug 21 18:33 : update: updating Main/Different Heaven - Nekozilla [NCS Release].mp3
+Aug 21 18:33 : update: updating Main/M.I.A. - Paper Planes.m4a
+Aug 21 18:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 21 18:33 : update: updating Main/Hardwell - Eclipse (OUT NOW!) UnitedWeAre.mp3
+Aug 21 18:33 : update: updating Main/50 cent - In da club.mp3
+Aug 21 18:33 : update: updating Main/Tupac - Last Muthafucka Breathin.mp3
+Aug 21 18:33 : update: updating Main/Yakuza OST - Baka Mitai.mp3
+Aug 21 18:33 : update: updating Main/Go flex Post Malone lyrics.mp3
+Aug 21 18:33 : update: updating Main/Michael Calfan - Resurrection.mp3
+Aug 21 18:33 : update: updating Main/Tobu - Hope [NCS Release].mp3
+Aug 21 18:33 : update: updating Main/Ice Cube - Sasquatch.mp3
+Aug 21 18:33 : update: updating Main/Warsongs - Piercing Light (Mako Remix).mp3
+Aug 21 18:33 : update: updating Main/Tupac - Hail Mary.mp3
+Aug 21 18:33 : update: updating Main/Eminem - Stan Lyrics [audio].mp3
+Aug 21 18:33 : update: updating Main/Post Malone - White Iverson.mp3
+Aug 21 18:33 : update: updating Main/Warsongs - Silver Scrapes (ProtoShredanoid Remix).mp3
+Aug 21 18:33 : update: updating Main/Koven - Telling Me [Monstercat EP Release].mp3
+Aug 21 18:33 : update: updating Main/DJ Walkzz - Memories.mp3
+Aug 21 18:33 : update: updating Main/KSHMR - Dhoom.mp3
+Aug 21 18:33 : update: updating Main/Pink Guy ft Axel Boy - ARE YOU SERIOUS.mp3
+Aug 21 18:33 : update: updating Main/Ice Cube - Wicked.mp3
+Aug 21 18:33 : update: updating Main/N.W.A. - Express Yourself.mp3
+Aug 21 18:33 : update: updating Main/TheFatRat - Monody (feat. Laura Brehm).mp3
+Aug 21 18:33 : update: updating Main/The Notorious B.I.G. - Juicy.mp3
+Aug 21 18:33 : update: updating Main/Eminem - Sing For The Moment.mp3
+Aug 21 18:33 : update: updating Main/Eminem - The Monster ft. Rihanna ( Lyrics On-Screen ).mp3
+Aug 21 18:33 : update: updating Main/Dr. Dre - The Next Episode (San Holo Remix).mp3
+Aug 21 18:33 : update: updating Main/Alan Walker - Fade [NCS Release].mp3
+Aug 21 18:33 : update: updating Main/Future - Mask Off (Marshmello Remix).mp3
+Aug 21 18:33 : update: updating Main/Warsongs - Edge of Infinity (Minnesota Remix).mp3
+Aug 21 18:33 : update: updating Main/Ice Cube - Gangsta Rap Made Me Do It  (lyrics).mp3
+Aug 21 18:33 : update: updating Main/Ahrix - Nova.mp3
+Aug 21 18:33 : update: updating Main/Eminem - The Real Slim Shady (Lyrics) [HD & HQ].mp3
+Aug 21 18:33 : update: updating Main/KSHMR & MARNIK - Mandala ft. Mitika (Official Sunburn 2016 Anthem) [Official Music Video].mp3
+Aug 21 18:33 : update: updating Main/Alan Walker - Spectre.mp3
+Aug 21 18:33 : update: updating Main/Martin Garrix & Bebe Rexha - In The Name Of Love.mp3
+Aug 21 18:33 : update: updating Main/Disfigure - Blank.mp3
+Aug 21 18:33 : update: updating Main/Ice Cube - Why We Thugs (Dirty Lyrics).mp3
+Aug 21 18:33 : update: updating Main/Veorra & The Tech Thieves - Ghost Town.mp3
+Aug 21 18:33 : update: updating Main/Warsongs - Lucidity (Dan Negovan Remix).mp3
+Aug 21 18:33 : update: updating Main/Eminem - Survival (Explicit).mp3
+Aug 21 18:33 : update: updating Main/Ocean Man Lyrics.m4a
+Aug 21 18:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 21 18:33 : update: updating Main/Joji - Sanctuary.mp3
+Aug 21 18:33 : update: updating Main/Eminem - Beautiful [Lyrics HD Uncensored] (2).mp3
+Aug 21 18:33 : update: updating Main/Warsongs - Worlds Collide (Arty Remix).mp3
+Aug 21 18:33 : update: updating Main/Warsongs - Welcome to Planet Urf (Jauz Remix).mp3
+Aug 21 18:34 : update: updating Main/Real to Me.m4a
+Aug 21 18:34 : update: updating Main/Joji - Slow Dancing in the Dark.mp3
+Aug 21 18:35 : update: updating Main/Janji - Heroes Tonight (feat. Johnning).mp3
+Aug 21 18:37 : update: updating Main/Vonikk - Frenzy.mp3
+Aug 21 18:41 : update: updating Main/NSYNC - It's gonna be me.mp3
+Aug 21 18:41 : update: updating Main/Dr. Dre ft. Eminem & Skylar Grey - I Need A Doctor.mp3
+Aug 21 18:41 : update: updating Main/NSYNC - Bye Bye Bye.mp3
+Aug 21 18:41 : update: updating Main/Eminem - Not Afraid (Audio).mp3
+Aug 21 18:41 : update: updating Main/Warsongs - Flash Funk (Marshmello Remix).mp3
+Aug 21 18:41 : update: updating Main/Warsongs - Let The Games Begin (Hyper Potions Remix).mp3
+Aug 21 18:41 : update: updating Main/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+Aug 21 18:41 : update: updating Main/NSYNC - I want you back.mp3
+Aug 21 18:41 : update: updating Main/Warsongs - Piercing Light (Mako Remix).mp3
+Aug 21 18:41 : update: updating Main/Post Malone - White Iverson.mp3
+Aug 21 18:41 : update: updating Main/Ahrix - Nova.mp3
+Aug 21 18:41 : update: updating Main/NSYNC - Tearin' Up My Heart (Video).mp3
+Aug 21 18:41 : update: updating Main/Joji - Sanctuary.mp3
+Aug 21 18:42 : update: updating Main/Hardwell & Joey Dale feat. Luciana - Arcadia-1.mp3
+Aug 21 18:43 : update: updating Main/Ummet Ozcan - Superwave (Vonikk Remix).mp3
+Aug 21 18:44 : player: played "Main/Yakuza OST - Baka Mitai.mp3"
+Aug 21 18:48 : update: removing klazik moozik/O-Zone - Dragostea din tei (Video Clip Oficial).mp3
+Aug 21 18:48 : update: removing klazik moozik/Pink Guy ft Axel Boy - ARE YOU SERIOUS.mp3
+Aug 21 18:48 : update: removing klazik moozik/RIP Elliot Rodger.m4a
+Aug 21 18:48 : update: removing Main/Pink Guy ft Axel Boy - ARE YOU SERIOUS.mp3
+Aug 21 18:48 : update: removing Main/Veorra & The Tech Thieves - Ghost Town.mp3
+Aug 21 18:48 : update: removing Main/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/N.W.A. - Express Yourself.mp3
+Aug 21 18:48 : update: removing Main/Ahrix - Nova.mp3
+Aug 21 18:48 : update: removing Main/Alan Walker - Fade [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/DEAF KEV - Invincible [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/Different Heaven - Nekozilla [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/Different Heaven & EH!DE - My Heart.mp3
+Aug 21 18:48 : update: removing Main/TheFatRat - Telescope.mp3
+Aug 21 18:48 : update: removing Main/TheFatRat - Monody (feat. Laura Brehm).mp3
+Aug 21 18:48 : update: removing Main/DJ Walkzz - Memories.mp3
+Aug 21 18:48 : update: removing Main/Future - Mask Off (Marshmello Remix).mp3
+Aug 21 18:48 : update: removing Main/Eminem - Lose Yourself.mp3
+Aug 21 18:48 : update: removing Main/Ice Cube - Why We Thugs (Dirty Lyrics).mp3
+Aug 21 18:48 : update: removing Main/KSHMR & Snails - The Serpent (Official Audio).m4a
+Aug 21 18:48 : update: removing Main/Martin Garrix & Bebe Rexha - In The Name Of Love.mp3
+Aug 21 18:48 : update: removing Main/Alan Walker - Hope.mp3
+Aug 21 18:48 : update: removing Main/Tobu - Hope [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/Dr. Dre ft. Eminem & Skylar Grey - I Need A Doctor.mp3
+Aug 21 18:48 : update: removing Main/Dr. Dre feat. Snoop Dogg - Still Dre.mp3
+Aug 21 18:48 : update: removing Main/Dr. Dre - The Next Episode (San Holo Remix).mp3
+Aug 21 18:48 : update: removing Main/Hate It Or Love It Lyrics - The Game Feat. 50 Cent __ HD.mp3
+Aug 21 18:48 : update: removing Main/N.W.a - Straight Outta Compton (2006 Digital Remaster).mp3
+Aug 21 18:48 : update: removing Main/Tupac-Changes.mp3
+Aug 21 18:48 : update: removing Main/Ice Cube - Today Was A Good Day.mp3
+Aug 21 18:48 : update: removing Main/Tupac - Hail Mary.mp3
+Aug 21 18:48 : update: removing Main/KSHMR & MARNIK - Mandala ft. Mitika (Official Sunburn 2016 Anthem) [Official Music Video].mp3
+Aug 21 18:48 : update: removing Main/Alan Walker - Force.mp3
+Aug 21 18:48 : update: removing Main/Alan Walker - Faded.mp3
+Aug 21 18:48 : update: removing Main/Eminem - You Don't Know ft. 50 Cent, Cashis, Lloyd Banks.mp3
+Aug 21 18:48 : update: removing Main/Michael Calfan - Resurrection.mp3
+Aug 21 18:48 : update: removing Main/Koven - Telling Me [Monstercat EP Release].mp3
+Aug 21 18:48 : update: removing Main/Ice Cube - Sasquatch.mp3
+Aug 21 18:48 : update: removing Main/The Chainsmokers - Closer ft. Halsey.mp3
+Aug 21 18:48 : update: removing Main/Ski Mask The Slump God - Catch Me Outside.m4a
+Aug 21 18:48 : update: removing Main/IceCube - Check Yo Self.mp3
+Aug 21 18:48 : update: added /Dr. Dre feat. Snoop Dogg - Still Dre.mp3
+Aug 21 18:48 : update: removing Main/Disfigure - Blank.mp3
+Aug 21 18:48 : update: removing Main/Martin Garrix - Animals.mp3
+Aug 21 18:48 : update: removing Main/Eminem - Beautiful [Lyrics HD Uncensored] (2).mp3
+Aug 21 18:48 : update: removing Main/Notorious B.I.G. & 2pac - Niggas in Paris.mp3
+Aug 21 18:48 : update: removing Main/Yakuza OST - Baka Mitai.mp3
+Aug 21 18:48 : update: removing Main/Warriyo - Mortals (feat. Laura Brehm) [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/W&W & Hardwell & Lil Jon - Live The Night.mp3
+Aug 21 18:48 : update: removing Main/W&W & Blasterjaxx - Rocket.mp3
+Aug 21 18:48 : update: removing Main/W&W - Thunder.mp3
+Aug 21 18:48 : update: added /NSYNC - It's gonna be me.mp3
+Aug 21 18:48 : update: removing Main/W&W - Bigfoot.mp3
+Aug 21 18:48 : update: removing Main/Vonikk - Frenzy.mp3
+Aug 21 18:48 : update: removing Main/Vicetone - Nevada (feat. Cozi Zuehlsdorff).mp3
+Aug 21 18:48 : update: removing Main/Ummet Ozcan - Superwave (Vonikk Remix).mp3
+Aug 21 18:48 : update: removing Main/Tristam & Braken - Frame of Mind.mp3
+Aug 21 18:48 : update: removing Main/Tristam & Braken - Flight.mp3
+Aug 21 18:48 : update: removing Main/Tristam - Till Its Over.mp3
+Aug 21 18:48 : update: removing Main/Tristam - Once Again.mp3
+Aug 21 18:48 : update: removing Main/Tristam - I Remember.mp3
+Aug 21 18:48 : update: removing Main/Tobu - Infectious [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/Ski Mask The Slump God - BabyWipe.mp3
+Aug 21 18:48 : update: removing Main/Real to Me.m4a
+Aug 21 18:48 : update: removing Main/Post Malone - Rockstar ft. 21 Savage (Crankdat Remix).mp3
+Aug 21 18:48 : update: removing Main/Post Malone - Better Now.mp3
+Aug 21 18:48 : update: removing Main/NSYNC - Tearin' Up My Heart (Video).mp3
+Aug 21 18:48 : update: removing Main/NSYNC - It's gonna be me.mp3
+Aug 21 18:48 : update: removing Main/NSYNC - I want you back.mp3
+Aug 21 18:48 : update: removing Main/NSYNC - Bye Bye Bye.mp3
+Aug 21 18:48 : update: removing Main/NeoTune! & Hermax - Buzzard.mp3
+Aug 21 18:48 : update: removing Main/My Chemical Romance - _Welcome To The Black Parade_ [Official Music Video].m4a
+Aug 21 18:48 : update: removing Main/Migos - Walk It Talk It ft. Drake.mp3
+Aug 21 18:48 : update: removing Main/Metro Boomin & Offset - Ric Flair Drip.mp3
+Aug 21 18:48 : update: removing Main/Martin Garrix & Jay Hardway - Wizard.mp3
+Aug 21 18:48 : update: removing Main/Martin Garrix & Firebeatz - Helicopter.mp3
+Aug 21 18:48 : update: removing Main/Lil Xan - Betrayed (Dir. by @_ColeBennett_).mp3
+Aug 21 18:48 : update: removing Main/Lil Skies - Red Roses ft. Landon Cube.mp3
+Aug 21 18:48 : update: removing Main/Lil Skies - Nowadays ft. Landon Cube.mp3
+Aug 21 18:48 : update: removing Main/lil peep - benz truck (prod. smokeasac).m4a
+Aug 21 18:48 : update: added /Dr. Dre ft. Eminem & Skylar Grey - I Need A Doctor.mp3
+Aug 21 18:48 : update: removing Main/KSHMR - Strange Lands (Free Download).mp3
+Aug 21 18:48 : update: removing Main/KSHMR - Jammu (Official Music Video).mp3
+Aug 21 18:48 : update: removing Main/KSHMR - Dead Mans Hand (Official Music Video).mp3
+Aug 21 18:48 : update: removing Main/Krale - Frontier (ft. Jasmina Lin & Jay Christopher) [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/Joji & Diplo - Daylight.mp3
+Aug 21 18:48 : update: removing Main/Joji - Slow Dancing in the Dark.mp3
+Aug 21 18:48 : update: removing Main/Jo Cohen & Sex Whales - We Are [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/Janji - Heroes Tonight (feat. Johnning).mp3
+Aug 21 18:48 : update: removing Main/IZECOLD - Close (feat. Molly Ann) [Brooks Remix]   NCS x FHM Release.mp3
+Aug 21 18:48 : update: removing Main/Headhunterz  KSHMR - Dharma (Official Music Video).wav
+Aug 21 18:48 : update: removing Main/Hardwell & Joey Dale feat. Luciana - Arcadia-1.mp3
+Aug 21 18:48 : update: removing Main/Hardwell & Armin van Buuren - Off The Hook.mp3
+Aug 21 18:48 : update: removing Main/Green Day -Boulevard of Broken Dreams.mp3
+Aug 21 18:48 : update: removing Main/Eminem - Walk On Water ft. Beyoncé.mp3
+Aug 21 18:48 : update: removing Main/Elektronomia - Energy [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/DVBBS & Borgeous - TSUNAMI (Original Mix).mp3
+Aug 21 18:48 : update: removing Main/Drake God's Plan.mp3
+Aug 21 18:48 : update: removing Main/Drake - Sneakin' ft. 21 Savage.mp3
+Aug 21 18:48 : update: removing Main/Dope Arcade - Ascension (MitiS Remix).mp3
+Aug 21 18:48 : update: removing Main/DOCTOR VOX - Frontier.mp3
+Aug 21 18:48 : update: removing Main/Dimitri Vegas, Martin Garrix, Like Mike - Tremor.mp3
+Aug 21 18:48 : update: removing Main/Dimitri Vegas & Like Mike vs Ummet Ozcan - The Hum (Short Edit).mp3
+Aug 21 18:48 : update: removing Main/Defqwop - Heart Afire (feat. Strix) [NCS Release]-gJeh_dLjPN4.m4a
+Aug 21 18:48 : update: removing Main/CUCO - Lover is a Day.mp3
+Aug 21 18:48 : update: removing Main/Codeko - Crest [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/Carnage & Borgore - Incredible.mp3
+Aug 21 18:48 : update: removing Main/Bon Jovi - It's my life.mp3
+Aug 21 18:48 : update: removing Main/BlocBoy JB & Drake -  Look Alive.mp3
+Aug 21 18:48 : update: removing Main/Blasterjaxx feat. Courtney Jenae - Forever.mp3
+Aug 21 18:48 : update: removing Main/Blasterjaxx & Justin Prime - Push Play.mp3
+Aug 21 18:48 : update: removing Main/Blasterjaxx & Badd Dimes - Titan (Original Mix).mp3
+Aug 21 18:48 : update: removing Main/Blasterjaxx - Vision.mp3
+Aug 21 18:48 : update: removing Main/Blasterjaxx - Mystica.mp3
+Aug 21 18:48 : update: removing Main/Blasterjaxx - Gravity (Original Mix).mp3
+Aug 21 18:48 : update: removing Main/Backstreet Boys - I want it that way.mp3
+Aug 21 18:48 : update: added /IceCube - Check Yo Self.mp3
+Aug 21 18:48 : update: removing Main/Backstreet Boys - As long as you love me.mp3
+Aug 21 18:48 : update: removing Main/Alan Walker - The Spectre.m4a
+Aug 21 18:48 : update: removing Main/Alan Walker - Alone.m4a
+Aug 21 18:48 : update: removing Main/21 Savage, Offset & Metro Boomin -  Ghostface Killers  Ft Travis Scott.mp3
+Aug 21 18:48 : update: removing Main/21 Savage & Metro Boomin - X ft Future.mp3
+Aug 21 18:48 : update: removing Main/21 Savage & Metro Boomin - No Heart.mp3
+Aug 21 18:48 : update: removing Main/TheFatRat - Xenogenesis.mp3
+Aug 21 18:48 : update: removing Main/TheFatRat - Windfall.mp3
+Aug 21 18:48 : update: removing Main/Warsongs - Silver Scrapes (ProtoShredanoid Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - Lucidity (Dan Negovan Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - The Boy Who Shattered Time (MitiS Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - The Glory (James Egbert Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - Worlds Collide (Arty Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - Let The Games Begin (Hyper Potions Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - Flash Funk (Marshmello Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - PROJECT_ Yi (Vicetone Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - Welcome to Planet Urf (Jauz Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - Edge of Infinity (Minnesota Remix).mp3
+Aug 21 18:48 : update: removing Main/Warsongs - Piercing Light (Mako Remix).mp3
+Aug 21 18:48 : update: removing Main/Eminem - Stan Lyrics [audio].mp3
+Aug 21 18:48 : update: removing Main/Tupac - Last Muthafucka Breathin.mp3
+Aug 21 18:48 : update: removing Main/TheFatRat - Unity.mp3
+Aug 21 18:48 : update: removing Main/Hardwell - Eclipse (OUT NOW!) UnitedWeAre.mp3
+Aug 21 18:48 : update: removing Main/Cartoon - Why We Lose (feat. Coleman Trapp) [NCS Release].mp3
+Aug 21 18:48 : update: removing Main/M.I.A. - Paper Planes.m4a
+Aug 21 18:48 : update: removing Main/TheFatRat - Time Lapse.mp3
+Aug 21 18:48 : update: removing Main/Ice Cube - Wicked.mp3
+Aug 21 18:48 : update: removing Main/50 cent - In da club.mp3
+Aug 21 18:48 : update: removing Main/Ocean Man Lyrics.m4a
+Aug 21 18:48 : update: removing Main/Eminem - The Monster ft. Rihanna ( Lyrics On-Screen ).mp3
+Aug 21 18:48 : update: removing Main/Eminem - Rap God (Explicit).mp3
+Aug 21 18:48 : update: added /Tupac-Changes.mp3
+Aug 21 18:48 : update: removing Main/Eminem - Survival (Explicit).mp3
+Aug 21 18:48 : update: removing Main/KSHMR - Dhoom.mp3
+Aug 21 18:48 : update: removing Main/Eminem - Sing For The Moment.mp3
+Aug 21 18:48 : update: removing Main/Eminem - Without Me.mp3
+Aug 21 18:48 : update: removing Main/Post Malone - Congratulations ft Quavo.mp3
+Aug 21 18:48 : update: removing Main/Go flex Post Malone lyrics.mp3
+Aug 21 18:48 : update: removing Main/Post Malone - White Iverson.mp3
+Aug 21 18:48 : update: removing Main/Alan Walker - Spectre.mp3
+Aug 21 18:48 : update: removing Main/Joji - Sanctuary.mp3
+Aug 21 18:48 : update: removing Main/Eminem - Space Bound.mp3
+Aug 21 18:48 : update: removing Main/Eminem - Not Afraid (Audio).mp3
+Aug 21 18:48 : update: removing Main/Alan Walker vs Coldplay - Hymn For The Weekend [Remix].mp3
+Aug 21 18:48 : update: removing Main/The Notorious B.I.G. - Juicy.mp3
+Aug 21 18:48 : update: removing Main/Ice Cube - Gangsta Rap Made Me Do It  (lyrics).mp3
+Aug 21 18:48 : update: removing Main/MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ .mp3
+Aug 21 18:48 : update: removing Main/Dr. Dre Ft. Eminem - Forgot About Dre.mp3
+Aug 21 18:48 : update: removing Main/Eminem - My Name Is.mp3
+Aug 21 18:48 : update: removing Main/Eminem - The Real Slim Shady (Lyrics) [HD & HQ].mp3
+Aug 21 18:48 : update: added /Alan Walker - Force.mp3
+Aug 21 18:48 : update: added /TheFatRat - Windfall.mp3
+Aug 21 18:48 : update: added /Joji - Slow Dancing in the Dark.mp3
+Aug 21 18:48 : update: added /Warsongs - The Glory (James Egbert Remix).mp3
+Aug 21 18:48 : update: added /Eminem - My Name Is.mp3
+Aug 21 18:48 : update: added /Eminem - Lose Yourself.mp3
+Aug 21 18:48 : update: added /Different Heaven & EH!DE - My Heart.mp3
+Aug 21 18:48 : update: added /NSYNC - Bye Bye Bye.mp3
+Aug 21 18:48 : update: added /Eminem - Without Me.mp3
+Aug 21 18:48 : update: added /Alan Walker - Hope.mp3
+Aug 21 18:48 : update: added /Ski Mask The Slump God - Catch Me Outside.m4a
+Aug 21 18:48 : update: added /TheFatRat - Time Lapse.mp3
+Aug 21 18:48 : update: added /Janji - Heroes Tonight (feat. Johnning).mp3
+Aug 21 18:48 : update: added /Eminem - Rap God (Explicit).mp3
+Aug 21 18:48 : update: added /Alan Walker - Faded.mp3
+Aug 21 18:48 : update: added /Eminem - Not Afraid (Audio).mp3
+Aug 21 18:48 : update: added /Eminem - You Don't Know ft. 50 Cent, Cashis, Lloyd Banks.mp3
+Aug 21 18:48 : update: added /Codeko - Crest [NCS Release].mp3
+Aug 21 18:48 : update: added /Ice Cube - Today Was A Good Day.mp3
+Aug 21 18:48 : update: added /Post Malone - Congratulations ft Quavo.mp3
+Aug 21 18:48 : update: added /DEAF KEV - Invincible [NCS Release].mp3
+Aug 21 18:48 : update: added /Warsongs - The Boy Who Shattered Time (MitiS Remix).mp3
+Aug 21 18:48 : update: added /Warsongs - PROJECT_ Yi (Vicetone Remix).mp3
+Aug 21 18:48 : update: added /Eminem - Space Bound.mp3
+Aug 21 18:48 : update: added /MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ .mp3
+Aug 21 18:48 : update: added /TheFatRat - Unity.mp3
+Aug 21 18:48 : update: added /The Chainsmokers - Closer ft. Halsey.mp3
+Aug 21 18:48 : update: added /Hardwell & Joey Dale feat. Luciana - Arcadia-1.mp3
+Aug 21 18:48 : update: added /Warsongs - Flash Funk (Marshmello Remix).mp3
+Aug 21 18:48 : update: added /TheFatRat - Xenogenesis.mp3
+Aug 21 18:48 : update: added /Dr. Dre Ft. Eminem - Forgot About Dre.mp3
+Aug 21 18:48 : update: added /TheFatRat - Telescope.mp3
+Aug 21 18:48 : update: added /CUCO - Lover is a Day.mp3
+Aug 21 18:48 : update: added /Warsongs - Let The Games Begin (Hyper Potions Remix).mp3
+Aug 21 18:48 : update: added /Cartoon - Why We Lose (feat. Coleman Trapp) [NCS Release].mp3
+Aug 21 18:48 : update: added /N.W.a - Straight Outta Compton (2006 Digital Remaster).mp3
+Aug 21 18:48 : update: added /Ummet Ozcan - Superwave (Vonikk Remix).mp3
+Aug 21 18:48 : update: added /Hate It Or Love It Lyrics - The Game Feat. 50 Cent __ HD.mp3
+Aug 21 18:48 : update: added /Joji & Diplo - Daylight.mp3
+Aug 21 18:48 : update: added /Vonikk - Frenzy.mp3
+Aug 21 18:48 : update: added /Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+Aug 21 18:48 : update: added /Different Heaven - Nekozilla [NCS Release].mp3
+Aug 21 18:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 21 18:48 : update: added /M.I.A. - Paper Planes.m4a
+Aug 21 18:48 : update: added /Hardwell - Eclipse (OUT NOW!) UnitedWeAre.mp3
+Aug 21 18:48 : update: added /50 cent - In da club.mp3
+Aug 21 18:48 : update: added /Tupac - Last Muthafucka Breathin.mp3
+Aug 21 18:48 : update: added /NSYNC - I want you back.mp3
+Aug 21 18:48 : update: added /Yakuza OST - Baka Mitai.mp3
+Aug 21 18:48 : update: added /Go flex Post Malone lyrics.mp3
+Aug 21 18:48 : update: added /Michael Calfan - Resurrection.mp3
+Aug 21 18:48 : update: added /Tobu - Hope [NCS Release].mp3
+Aug 21 18:48 : update: added /Ice Cube - Sasquatch.mp3
+Aug 21 18:48 : update: added /Warsongs - Piercing Light (Mako Remix).mp3
+Aug 21 18:48 : update: added /Tupac - Hail Mary.mp3
+Aug 21 18:48 : update: added /Eminem - Stan Lyrics [audio].mp3
+Aug 21 18:48 : update: added /Post Malone - White Iverson.mp3
+Aug 21 18:48 : update: added /Real to Me.m4a
+Aug 21 18:48 : update: added /Warsongs - Silver Scrapes (ProtoShredanoid Remix).mp3
+Aug 21 18:48 : update: added /Koven - Telling Me [Monstercat EP Release].mp3
+Aug 21 18:48 : update: added /DJ Walkzz - Memories.mp3
+Aug 21 18:48 : update: added /KSHMR - Dhoom.mp3
+Aug 21 18:48 : update: added /Pink Guy ft Axel Boy - ARE YOU SERIOUS.mp3
+Aug 21 18:48 : update: added /Ice Cube - Wicked.mp3
+Aug 21 18:48 : update: added /N.W.A. - Express Yourself.mp3
+Aug 21 18:48 : update: added /TheFatRat - Monody (feat. Laura Brehm).mp3
+Aug 21 18:48 : update: added /The Notorious B.I.G. - Juicy.mp3
+Aug 21 18:48 : update: added /Eminem - Sing For The Moment.mp3
+Aug 21 18:48 : update: added /Eminem - The Monster ft. Rihanna ( Lyrics On-Screen ).mp3
+Aug 21 18:48 : update: added /Dr. Dre - The Next Episode (San Holo Remix).mp3
+Aug 21 18:48 : update: added /Alan Walker - Fade [NCS Release].mp3
+Aug 21 18:48 : update: added /Future - Mask Off (Marshmello Remix).mp3
+Aug 21 18:48 : update: added /Warsongs - Edge of Infinity (Minnesota Remix).mp3
+Aug 21 18:48 : update: added /Ice Cube - Gangsta Rap Made Me Do It  (lyrics).mp3
+Aug 21 18:48 : update: added /Ahrix - Nova.mp3
+Aug 21 18:48 : update: added /Eminem - The Real Slim Shady (Lyrics) [HD & HQ].mp3
+Aug 21 18:48 : update: added /KSHMR & MARNIK - Mandala ft. Mitika (Official Sunburn 2016 Anthem) [Official Music Video].mp3
+Aug 21 18:48 : update: added /Alan Walker - Spectre.mp3
+Aug 21 18:48 : update: added /Martin Garrix & Bebe Rexha - In The Name Of Love.mp3
+Aug 21 18:48 : update: added /Disfigure - Blank.mp3
+Aug 21 18:48 : update: added /Ice Cube - Why We Thugs (Dirty Lyrics).mp3
+Aug 21 18:48 : update: added /Veorra & The Tech Thieves - Ghost Town.mp3
+Aug 21 18:48 : update: added /Warsongs - Lucidity (Dan Negovan Remix).mp3
+Aug 21 18:48 : update: added /Eminem - Survival (Explicit).mp3
+Aug 21 18:48 : update: added /NSYNC - Tearin' Up My Heart (Video).mp3
+Aug 21 18:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 21 18:48 : update: added /Ocean Man Lyrics.m4a
+Aug 21 18:48 : update: added /Joji - Sanctuary.mp3
+Aug 21 18:48 : update: added /Eminem - Beautiful [Lyrics HD Uncensored] (2).mp3
+Aug 21 18:48 : update: added /Warsongs - Worlds Collide (Arty Remix).mp3
+Aug 21 18:48 : update: added /Warsongs - Welcome to Planet Urf (Jauz Remix).mp3
+Aug 21 18:48 : client: [28] closed
+Aug 21 18:49 : client: [29] opened from 127.0.0.1:58354
+Aug 21 18:49 : player: played "Main/Yakuza OST - Baka Mitai.mp3"
+Aug 21 18:53 : client: [29] closed
+Aug 21 18:53 : client: [30] opened from 127.0.0.1:58406
+Aug 21 18:55 : client: [30] closed
+Aug 21 18:55 : client: [31] opened from 127.0.0.1:58426
+Aug 21 18:56 : client: [31] closed
+Aug 21 18:57 : client: [32] opened from 127.0.0.1:58436
+Aug 21 18:58 : client: [32] closed
+Aug 21 18:58 : client: [33] opened from 127.0.0.1:58450
+Aug 21 18:58 : client: [33] closed
+Aug 21 18:58 : client: [34] opened from 127.0.0.1:58452
+Aug 21 18:58 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 21 19:01 : player: played "Joji & Diplo - Daylight.mp3"
+Aug 21 19:04 : player: played "Janji - Heroes Tonight (feat. Johnning).mp3"
+Aug 21 19:09 : client: [35] opened from 127.0.0.1:58594
+Aug 21 19:09 : client: [35] closed
+Aug 21 19:15 : client: [36] opened from 127.0.0.1:58650
+Aug 21 19:15 : client: [36] closed
+Aug 21 19:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 21 19:26 : player: played "NSYNC - Tearin' Up My Heart (Video).mp3"
+Aug 21 19:30 : client: [37] opened from 127.0.0.1:58904
+Aug 21 19:30 : client: [37] closed
+Aug 21 19:30 : player: played "Dr. Dre - The Next Episode (San Holo Remix).mp3"
+Aug 21 19:36 : player: played "Eminem - Lose Yourself.mp3"
+Aug 21 19:40 : client: [38] opened from 127.0.0.1:59008
+Aug 21 19:40 : client: [38] closed
+Aug 21 19:40 : player: played "Warsongs - Welcome to Planet Urf (Jauz Remix).mp3"
+Aug 21 19:40 : client: [39] opened from 127.0.0.1:59012
+Aug 21 19:41 : client: [39] closed
+Aug 21 19:42 : client: [40] opened from 127.0.0.1:59014
+Aug 21 19:42 : client: [40] closed
+Aug 21 19:42 : client: [41] opened from 127.0.0.1:59016
+Aug 21 19:45 : player: played "Vonikk - Frenzy.mp3"
+Aug 21 19:49 : player: played "Alan Walker - Fade [NCS Release].mp3"
+Aug 21 19:54 : player: played "TheFatRat - Telescope.mp3"
+Aug 21 19:54 : client: [34] closed
+Aug 21 19:54 : client: [42] opened from 127.0.0.1:59280
+Aug 21 19:54 : client: [42] closed
+Aug 21 20:15 : client: [41] closed
+Aug 21 20:28 : client: [43] opened from 127.0.0.1:59722
+Aug 21 20:29 : client: [43] closed
+Aug 21 20:50 : client: [44] opened from 127.0.0.1:59922
+Aug 21 20:50 : client: [44] closed
+Aug 21 20:55 : client: [45] opened from 127.0.0.1:59966
+Aug 21 20:57 : client: [45] closed
+Aug 21 20:57 : client: [46] opened from 127.0.0.1:59978
+Aug 21 21:15 : client: [47] opened from 127.0.0.1:60040
+Aug 21 21:18 : client: [47] closed
+Aug 21 21:18 : client: [46] closed
+Aug 21 21:31 : client: [48] opened from 127.0.0.1:60146
+Aug 21 21:31 : client: [48] closed
+Aug 21 21:45 : client: [49] opened from 127.0.0.1:60406
+Aug 21 21:50 : client: [50] opened from 127.0.0.1:60470
+Aug 21 22:44 : client: [51] opened from 127.0.0.1:32816
+Aug 21 22:48 : client: [51] closed
+Aug 21 22:51 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 21 22:56 : player: played "Koven - Telling Me [Monstercat EP Release].mp3"
+Aug 21 23:00 : player: played "Eminem - Beautiful [Lyrics HD Uncensored] (2).mp3"
+Aug 21 23:04 : player: played "Alan Walker - Spectre.mp3"
+Aug 21 23:07 : player: played "Ummet Ozcan - Superwave (Vonikk Remix).mp3"
+Aug 21 23:12 : player: played "The Notorious B.I.G. - Juicy.mp3"
+Aug 21 23:15 : player: played "TheFatRat - Time Lapse.mp3"
+Aug 21 23:19 : player: played "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ .mp3"
+Aug 21 23:23 : player: played "The Chainsmokers - Closer ft. Halsey.mp3"
+Aug 21 23:26 : player: played "Joji - Slow Dancing in the Dark.mp3"
+Aug 21 23:31 : player: played "Eminem - You Don't Know ft. 50 Cent, Cashis, Lloyd Banks.mp3"
+Aug 21 23:33 : player: played "Ski Mask The Slump God - Catch Me Outside.m4a"
+Aug 21 23:36 : player: played "Hardwell - Eclipse (OUT NOW!) UnitedWeAre.mp3"
+Aug 21 23:41 : player: played "Ice Cube - Today Was A Good Day.mp3"
+Aug 21 23:44 : player: played "KSHMR & MARNIK - Mandala ft. Mitika (Official Sunburn 2016 Anthem) [Official Music Video].mp3"
+Aug 21 23:48 : player: played "Post Malone - White Iverson.mp3"
+Aug 21 23:52 : client: [50] closed
+Aug 22 00:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 22 00:12 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 22 00:15 : player: played "Joji & Diplo - Daylight.mp3"
+Aug 22 00:18 : player: played "NSYNC - It's gonna be me.mp3"
+Aug 22 00:22 : player: played "Joji - Slow Dancing in the Dark.mp3"
+Aug 22 00:27 : player: played "Codeko - Crest [NCS Release].mp3"
+Aug 22 00:32 : player: played "Eminem - My Name Is.mp3"
+Aug 22 02:58 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 22 05:21 : player: played "Tupac - Hail Mary.mp3"
+Aug 22 07:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 07:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 07:59 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 22 10:12 : avahi: Client Disconnected, will reconnect shortly
+Aug 22 10:12 : player: played "Tupac - Hail Mary.mp3"
+Aug 22 13:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 13:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 13:51 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 22 15:44 : client: [0] opened from 127.0.0.1:48076
+Aug 22 15:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 15:49 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 22 15:53 : player: played "Ummet Ozcan - Superwave (Vonikk Remix).mp3"
+Aug 22 15:58 : player: played "TheFatRat - Monody (feat. Laura Brehm).mp3"
+Aug 22 16:02 : player: played "Alan Walker - Fade [NCS Release].mp3"
+Aug 22 16:06 : player: played "Warsongs - Let The Games Begin (Hyper Potions Remix).mp3"
+Aug 22 16:10 : player: played "Eminem - The Monster ft. Rihanna ( Lyrics On-Screen ).mp3"
+Aug 22 16:14 : player: played "Warsongs - Silver Scrapes (ProtoShredanoid Remix).mp3"
+Aug 22 16:18 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Aug 23 13:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 13:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 13:44 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 23 14:41 : avahi: Client Disconnected, will reconnect shortly
+Aug 23 14:41 : player: played "DEAF KEV - Invincible [NCS Release].mp3"
+Aug 23 18:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 18:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 18:47 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 23 18:49 : client: [0] opened from 127.0.0.1:54180
+Aug 23 18:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 06:34 : client: [0] closed
+Aug 24 06:34 : avahi: Client Disconnected, will reconnect shortly
+Aug 24 06:34 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 24 13:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 13:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 13:04 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 24 20:32 : avahi: Client Disconnected, will reconnect shortly
+Aug 24 20:32 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 24 21:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 21:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 21:54 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 24 22:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 22:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 22:43 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 24 22:44 : client: [0] opened from 127.0.0.1:48964
+Aug 24 22:44 : client: [0] closed
+Aug 24 22:44 : client: [1] opened from 127.0.0.1:49012
+Aug 24 22:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 02:05 : client: [1] closed
+Aug 25 02:05 : avahi: Client Disconnected, will reconnect shortly
+Aug 25 02:05 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 25 14:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 14:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 14:09 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 26 03:55 : avahi: Client Disconnected, will reconnect shortly
+Aug 26 03:55 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 26 14:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 14:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 14:15 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 26 18:51 : avahi: Client Disconnected, will reconnect shortly
+Aug 26 18:51 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 26 18:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 18:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 18:54 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 27 01:36 : avahi: Client Disconnected, will reconnect shortly
+Aug 27 01:36 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 27 12:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 12:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 12:36 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 27 14:06 : client: [0] opened from 127.0.0.1:60012
+Aug 27 14:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 17:51 : player: played "Yakuza OST - Baka Mitai.mp3"
+Aug 27 17:57 : player: played "Joji & Diplo - Daylight.mp3"
+Aug 27 21:00 : client: [0] closed
+Aug 28 04:22 : avahi: Client Disconnected, will reconnect shortly
+Aug 28 04:22 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Aug 28 04:22 : player: played "Tobu - Hope [NCS Release].mp3"
+Aug 28 11:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 11:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 11:11 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 28 16:23 : avahi: Client Disconnected, will reconnect shortly
+Aug 28 16:23 : player: played "Tobu - Hope [NCS Release].mp3"
+Aug 30 20:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 20:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 20:52 : avahi: Service 'Music Player @ BC' successfully established.
+Aug 31 05:19 : avahi: Client Disconnected, will reconnect shortly
+Aug 31 05:19 : player: played "Tobu - Hope [NCS Release].mp3"
+Aug 31 12:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 12:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 12:51 : avahi: Service 'Music Player @ BC' successfully established.
+Sep 01 04:00 : avahi: Client Disconnected, will reconnect shortly
+Sep 01 04:00 : player: played "Tobu - Hope [NCS Release].mp3"
+Sep 01 12:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 12:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 12:12 : avahi: Service 'Music Player @ BC' successfully established.
+Sep 01 13:24 : avahi: Client Disconnected, will reconnect shortly
+Sep 01 13:24 : player: played "Tobu - Hope [NCS Release].mp3"
+Sep 01 20:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 20:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 20:22 : avahi: Service 'Music Player @ BC' successfully established.
+Sep 01 22:33 : client: [0] opened from 127.0.0.1:59604
+Sep 01 22:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 22:38 : player: played "Yakuza OST - Baka Mitai.mp3"
+Sep 01 22:48 : client: [0] closed
+Sep 01 23:08 : client: [1] opened from 127.0.0.1:33080
+Sep 02 01:51 : client: [1] closed
+Sep 02 05:19 : avahi: Client Disconnected, will reconnect shortly
+Sep 02 05:19 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Sep 02 05:19 : player: played "Yakuza OST - Baka Mitai.mp3"
+Sep 02 13:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 13:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 13:18 : avahi: Service 'Music Player @ BC' successfully established.
+Sep 03 05:41 : avahi: Client Disconnected, will reconnect shortly
+Sep 03 05:41 : player: played "Yakuza OST - Baka Mitai.mp3"
+Sep 03 13:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 13:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 13:57 : avahi: Service 'Music Player @ BC' successfully established.
