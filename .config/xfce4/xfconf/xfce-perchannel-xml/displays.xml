@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="displays" version="1.0">
+  <property name="ActiveProfile" type="string" value="Default"/>
+  <property name="Default" type="empty">
+    <property name="DisplayPort-1" type="string" value="AUS 32&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="eae9103fec70251e03305babdd5591811601546d"/>
+      <property name="Resolution" type="string" value="2560x1440"/>
+      <property name="RefreshRate" type="double" value="59.950550"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="HDMI-A-1" type="string" value="Hewlett Packard 19&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="3d2d09555b302d4a193dfe81095c70e0189aed2e"/>
+      <property name="Resolution" type="string" value="1280x1024"/>
+      <property name="RefreshRate" type="double" value="75.024675"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="2560"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="HDMI-A-0" type="string" value="Hewlett Packard 19&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="3d2d09555b302d4a193dfe81095c70e0189aed2e"/>
+      <property name="Resolution" type="string" value="1280x1024"/>
+      <property name="RefreshRate" type="double" value="60.019740"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="2560"/>
+        <property name="Y" type="int" value="416"/>
+      </property>
+    </property>
+  </property>
+  <property name="Fallback" type="empty">
+    <property name="DisplayPort-1" type="string" value="AUS 32&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="eae9103fec70251e03305babdd5591811601546d"/>
+      <property name="Resolution" type="string" value="2560x1440"/>
+      <property name="RefreshRate" type="double" value="59.950550"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="HDMI-A-1" type="string" value="Hewlett Packard 19&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="3d2d09555b302d4a193dfe81095c70e0189aed2e"/>
+      <property name="Resolution" type="string" value="1280x1024"/>
+      <property name="RefreshRate" type="double" value="75.024675"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="2560"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="HDMI-A-0" type="string" value="Hewlett Packard 19&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="3d2d09555b302d4a193dfe81095c70e0189aed2e"/>
+      <property name="Resolution" type="string" value="1280x1024"/>
+      <property name="RefreshRate" type="double" value="60.019740"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="2560"/>
+        <property name="Y" type="int" value="416"/>
+      </property>
+    </property>
+  </property>
+</channel>
