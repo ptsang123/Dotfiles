@@ -59,11 +59,13 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="blueberry-tray.py"/>
         <value type="string" value="thunar"/>
         <value type="string" value="guake"/>
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="discord1"/>
         <value type="string" value="Stremio"/>
         <value type="string" value="steam"/>
         <value type="string" value="flameshot"/>
@@ -72,14 +74,14 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance1025;firefox.instance1342;firefox.instance1481;firefox.instance1715;firefox.instance2590;firefox.instance2785;firefox.instance2823"/>
+      <property name="mpris-players" type="string" value="chromium.instance11604;chromium.instance44380;firefox.instance1025;firefox.instance1224;firefox.instance1285;firefox.instance1286;firefox.instance1293;firefox.instance1305;firefox.instance1307;firefox.instance1314;firefox.instance1342;firefox.instance1481;firefox.instance1715;firefox.instance24223;firefox.instance2590;firefox.instance2785;firefox.instance2823"/>
     </property>
     <property name="plugin-10" type="string" value="notification-plugin"/>
     <property name="plugin-11" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-12" type="string" value="clock">
-      <property name="digital-format" type="string" value="%a %_d %b,  %I:%M%p"/>
+      <property name="digital-format" type="string" value="%a %_d %b %Y  %I:%M%p"/>
     </property>
     <property name="plugin-13" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
@@ -93,6 +95,7 @@
     </property>
     <property name="plugin-5" type="string" value="clock">
       <property name="mode" type="uint" value="2"/>
+      <property name="digital-format" type="string" value="%a %_d %b %Y  %I:%M%p"/>
     </property>
     <property name="plugin-7" type="string" value="weather">
       <property name="location" type="empty">
