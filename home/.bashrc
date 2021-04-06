@@ -7,7 +7,8 @@
 
 [[ -f ~/.welcome_screen ]] && . ~/.welcome_screen
 
-PS1='${debian_chroot:+($debian_chroot)}\[\033[01;34m\]\u\e[1;32m\]@\e[1;34m\]\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$ '
+# Custom bash prompt via kirsle.net/wizards/ps1.html
+export PS1="\[$(tput bold)\]\[$(tput setaf 4)\]\u\[$(tput setaf 6)\]@\[$(tput setaf 4)\]\h: \[$(tput setaf 2)\]\w \[$(tput sgr0)\]\[$(tput sgr0)\]"
 
 ShowInstallerIsoInfo() {
     local file=/usr/lib/endeavouros-release
