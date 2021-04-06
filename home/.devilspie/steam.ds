@@ -1,0 +1,13 @@
+(if
+	(is (application_name) "Steam")
+	(begin
+		(set_workspace 2)
+	)
+)
+
+(if
+	(is (application_name) "Thunderbird")
+	(begin
+		(set_workspace 3)
+	)
+)
