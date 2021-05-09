@@ -1,10 +1,13 @@
 #rofi
 alt + F2
-	zsh -c "rofi -show run"
+	rofi -show drun -lines 10 -width 40
+
+super + w
+	rofi -show window -width 80
 
 #terminal
 alt + t
-	uxterm
+	termite
 
 #file manager
 super + e
@@ -22,7 +25,14 @@ XF86Mail
 alt + ctrl + Delete
 	$HOME/.scripts/power.sh
 	
-#Music Player
-XF86Tools
-        qmmp
+# Center window
+shift + alt + c
+	xdotool getactivewindow windowsize 960 540 windowmove 500 200
 
+# Move window to left
+shift + super + Left
+	/usr/local/bin/movescreen.py left
+
+# Move window to right
+shift + super + Right
+	/usr/local/bin/movescreen.py right
