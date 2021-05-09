@@ -3,14 +3,14 @@
 <channel name="displays" version="1.0">
   <property name="ActiveProfile" type="string" value="Default"/>
   <property name="Default" type="empty">
-    <property name="DisplayPort-1" type="string" value="AUS 32&quot;">
+    <property name="DisplayPort-1" type="string" value="Acer Technologies 24&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="eae9103fec70251e03305babdd5591811601546d"/>
-      <property name="Resolution" type="string" value="2560x1440"/>
-      <property name="RefreshRate" type="double" value="59.950550"/>
+      <property name="EDID" type="string" value="6896cba06ea29b732c1f268ccb31cef885c78362"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="164.834197"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
+      <property name="Primary" type="bool" value="true"/>
       <property name="Scale" type="empty">
         <property name="X" type="double" value="1.000000"/>
         <property name="Y" type="double" value="1.000000"/>
@@ -41,24 +41,7 @@
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="3d2d09555b302d4a193dfe81095c70e0189aed2e"/>
       <property name="Resolution" type="string" value="1280x1024"/>
-      <property name="RefreshRate" type="double" value="60.019740"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1.000000"/>
-        <property name="Y" type="double" value="1.000000"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="2560"/>
-        <property name="Y" type="int" value="416"/>
-      </property>
-    </property>
-    <property name="HDMI-0" type="string" value="Ancor Communications Inc 22&quot;">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="33d2f288111e95eb4870e674782f59378a651a01"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="RefreshRate" type="double" value="75.024675"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -68,53 +51,19 @@
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="1920"/>
-        <property name="Y" type="int" value="0"/>
-      </property>
-    </property>
-    <property name="DP-0" type="string" value="Acer Technologies 24&quot;">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="3854962ac0fb33da9121c69618e405582edff455"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="143.854797"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="true"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1.000000"/>
-        <property name="Y" type="double" value="1.000000"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="0"/>
-      </property>
-    </property>
-    <property name="default" type="string" value="default">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value=""/>
-      <property name="Resolution" type="string" value="1024x768"/>
-      <property name="RefreshRate" type="double" value="76.000000"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1.000000"/>
-        <property name="Y" type="double" value="1.000000"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="0"/>
+        <property name="Y" type="int" value="10"/>
       </property>
     </property>
   </property>
   <property name="Fallback" type="empty">
-    <property name="DisplayPort-1" type="string" value="AUS 32&quot;">
+    <property name="DisplayPort-1" type="string" value="Acer Technologies 24&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="eae9103fec70251e03305babdd5591811601546d"/>
-      <property name="Resolution" type="string" value="2560x1440"/>
-      <property name="RefreshRate" type="double" value="59.950550"/>
+      <property name="EDID" type="string" value="6896cba06ea29b732c1f268ccb31cef885c78362"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="164.834197"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
+      <property name="Primary" type="bool" value="true"/>
       <property name="Scale" type="empty">
         <property name="X" type="double" value="1.000000"/>
         <property name="Y" type="double" value="1.000000"/>
@@ -145,24 +94,7 @@
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="3d2d09555b302d4a193dfe81095c70e0189aed2e"/>
       <property name="Resolution" type="string" value="1280x1024"/>
-      <property name="RefreshRate" type="double" value="60.019740"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1.000000"/>
-        <property name="Y" type="double" value="1.000000"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="2560"/>
-        <property name="Y" type="int" value="416"/>
-      </property>
-    </property>
-    <property name="HDMI-0" type="string" value="Ancor Communications Inc 22&quot;">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="33d2f288111e95eb4870e674782f59378a651a01"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="RefreshRate" type="double" value="75.024675"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -172,68 +104,16 @@
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="1920"/>
-        <property name="Y" type="int" value="0"/>
-      </property>
-    </property>
-    <property name="DP-0" type="string" value="Acer Technologies 24&quot;">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="3854962ac0fb33da9121c69618e405582edff455"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="143.854797"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="true"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1.000000"/>
-        <property name="Y" type="double" value="1.000000"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="0"/>
-      </property>
-    </property>
-    <property name="default" type="string" value="default">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value=""/>
-      <property name="Resolution" type="string" value="1024x768"/>
-      <property name="RefreshRate" type="double" value="76.000000"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1.000000"/>
-        <property name="Y" type="double" value="1.000000"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="0"/>
+        <property name="Y" type="int" value="10"/>
       </property>
     </property>
   </property>
-  <property name="Notify" type="bool" value="true"/>
   <property name="7505d64a54e061b7acd54ccd58b49dc43500b635" type="string" value="default">
-    <property name="HDMI-0" type="string" value="Ancor Communications Inc 22&quot;">
+    <property name="DisplayPort-1" type="string" value="Acer Technologies 24&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="33d2f288111e95eb4870e674782f59378a651a01"/>
+      <property name="EDID" type="string" value="6896cba06ea29b732c1f268ccb31cef885c78362"/>
       <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="60.000000"/>
-      <property name="Rotation" type="int" value="0"/>
-      <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
-      <property name="Scale" type="empty">
-        <property name="X" type="double" value="1.000000"/>
-        <property name="Y" type="double" value="1.000000"/>
-      </property>
-      <property name="Position" type="empty">
-        <property name="X" type="int" value="1920"/>
-        <property name="Y" type="int" value="0"/>
-      </property>
-    </property>
-    <property name="DP-0" type="string" value="Acer Technologies 24&quot;">
-      <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="3854962ac0fb33da9121c69618e405582edff455"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="143.854797"/>
+      <property name="RefreshRate" type="double" value="164.834197"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="true"/>
@@ -244,6 +124,23 @@
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
         <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="HDMI-A-0" type="string" value="Hewlett Packard 19&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="3d2d09555b302d4a193dfe81095c70e0189aed2e"/>
+      <property name="Resolution" type="string" value="1280x1024"/>
+      <property name="RefreshRate" type="double" value="75.024675"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="1920"/>
+        <property name="Y" type="int" value="10"/>
       </property>
     </property>
   </property>
