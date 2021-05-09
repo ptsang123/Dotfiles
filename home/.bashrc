@@ -160,12 +160,8 @@ _open_files_for_editing() {
 . "/home/blue/.local/share/lscolors.sh"
 
 export PATH="$PATH:~/.scripts"
-
-if [ -f `which powerline-daemon` ]; then
-    powerline-daemon -q
-    POWERLINE_BASH_CONTINUATION=1
-    POWERLINE_BASH_SELECT=1
-fi
-if [ -f /usr/local/lib/python3.8/dist-packages/powerline/bindings/bash/powerline.sh ]; then
-    source /usr/local/lib/python3.8/dist-packages/powerline/bindings/bash/powerline.sh
-fi
+export PATH="$PATH:~/.local/bin"
+. "/home/black/.local/share/lscolors.sh"
+export EDITOR='vim'
+export VISUAL='vim'
+alias reddit='ttrv --enable-media --theme solarized-dark'
