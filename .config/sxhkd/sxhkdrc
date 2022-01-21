@@ -7,7 +7,7 @@ super + w
 
 #terminal
 alt + t
-	termite
+	uxterm
 
 #file manager
 super + e
@@ -24,15 +24,28 @@ XF86Mail
 #Power menu
 alt + ctrl + Delete
 	$HOME/.scripts/power.sh
+
+# Raise Volume
+XF86AudioRaiseVolume
+        $HOME/.scripts/volume/volume.sh up
+
+# Lower Volume
+XF86AudioLowerVolume
+        $HOME/.scripts/volume/volume.sh down
+
+# Mute Volume
+XF86AudioMute
+        $HOME/.scripts/volume/volume.sh mute
 	
+# UNCOMMENT IF NOT USING OPENBOX
 # Center window
-shift + alt + c
-	xdotool getactivewindow windowsize 960 540 windowmove 500 200
+#shift + alt + c
+#	xdotool getactivewindow windowsize 960 540 windowmove 500 200
 
 # Move window to left
-shift + super + Left
-	/usr/local/bin/movescreen.py left
+#shift + super + Left
+#	/usr/local/bin/movescreen.py left
 
 # Move window to right
-shift + super + Right
-	/usr/local/bin/movescreen.py right
+#shift + super + Right
+#	/usr/local/bin/movescreen.py right

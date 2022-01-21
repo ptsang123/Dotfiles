@@ -133,3 +133,6 @@ xterm*color12:     rgb:41/86/be
 xterm*color13:     rgb:cf/9e/be
 xterm*color14:     rgb:71/be/be
 xterm*color15:    rgb:ff/ff/ff
+
+! Cursor size
+Xcursor.size: 50
