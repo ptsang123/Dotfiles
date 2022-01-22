@@ -76,28 +76,25 @@ URxvt.keysym.Shift-Control-Down:  \033[1;6B
 *.boldItalicFont: xft:DejaVu Sans Mono:style=Bold Italic:size=12
 
 !===========================================================================
-Xcursor.theme: FossaCursors
-
-!===========================================================================
 
 ! Rofi
 
-rofi.modi:                           ssh,window,drun,run
-rofi.sidebar-mode:                   true
+rofi.modi:                           drun
+rofi.sidebar-mode:                   false
 rofi.terminal:                       uxterm 
 rofi.ssh-client:                     ssh
 rofi.ssh-command:                    {terminal} -e "{ssh-client} {host}"
-rofi.opacity:                        100
+rofi.opacity:                        50
 rofi.width:                          25
-rofi.lines:                          15
+rofi.lines:                          10
 rofi.columns:                        1
 rofi.show-icons:                     true
-rofi.font:                           DejaVu Sans Mono 12
+rofi.font:                           DejaVu Sans Mono 15
 rofi.color-enabled: true
-rofi.color-window: #0d1316, #008ed4
-rofi.color-normal: #0d1316, #819396, #0d1316, #008ed4, #ffffff
-rofi.color-active: #0d1316, #008ed4, #0d1316, #008ed4, #66c6ff
-rofi.color-urgent: #0d1316, #da4281, #0d1316, #008ed4, #890661
+rofi.color-window: #141414, #141414
+rofi.color-normal: #0d1316, #819396, #0d1316, #FF0000, #ffffff
+rofi.color-active: #0d1316, #008ed4, #0d1316, #FF0000, #66c6ff
+rofi.color-urgent: #0d1316, #da4281, #0d1316, #FF0000, #890661
 !===========================================================================
 
 ! XTERM
@@ -134,5 +131,8 @@ xterm*color13:     rgb:cf/9e/be
 xterm*color14:     rgb:71/be/be
 xterm*color15:    rgb:ff/ff/ff
 
+!===========================================================================
+
 ! Cursor size
 Xcursor.size: 50
+Xcursor.theme: FossaCursors
