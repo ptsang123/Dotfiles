@@ -27,15 +27,15 @@ alt + ctrl + Delete
 
 # Raise Volume
 XF86AudioRaiseVolume
-        $HOME/.scripts/volume/volume.sh up
+        $HOME/.scripts/volume.sh up
 
 # Lower Volume
 XF86AudioLowerVolume
-        $HOME/.scripts/volume/volume.sh down
+        $HOME/.scripts/volume.sh down
 
 # Mute Volume
 XF86AudioMute
-        $HOME/.scripts/volume/volume.sh mute
+        $HOME/.scripts/volume.sh mute
 	
 # UNCOMMENT IF NOT USING OPENBOX
 # Center window
